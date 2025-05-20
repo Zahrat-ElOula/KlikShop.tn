@@ -25,7 +25,7 @@ Ceci est une Mini plateforme de **Marketplace**  dédiée aux citoyens tunisiens
 
 ---
 
-# 🛒 Marketplace – Java Spring Boot
+# KlikShop.tn 🛒 
 
 This is a **Marketplace** platform developed using **Java Spring Boot**.
 
